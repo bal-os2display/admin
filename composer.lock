@@ -1545,16 +1545,16 @@
         },
         {
             "name": "itk-os2display/horizon-template-bundle",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itk-os2display/horizon-template-bundle.git",
-                "reference": "872f7f00c120ff4364b4302197b2f4334c0b302c"
+                "reference": "7ad0a4ce626c9fd11ae16b8f83f702d021692af2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itk-os2display/horizon-template-bundle/zipball/872f7f00c120ff4364b4302197b2f4334c0b302c",
-                "reference": "872f7f00c120ff4364b4302197b2f4334c0b302c",
+                "url": "https://api.github.com/repos/itk-os2display/horizon-template-bundle/zipball/7ad0a4ce626c9fd11ae16b8f83f702d021692af2",
+                "reference": "7ad0a4ce626c9fd11ae16b8f83f702d021692af2",
                 "shasum": ""
             },
             "require": {
@@ -1569,10 +1569,10 @@
             },
             "description": "Os2Display Horizon templates",
             "support": {
-                "source": "https://github.com/itk-os2display/horizon-template-bundle/tree/1.0.1",
+                "source": "https://github.com/itk-os2display/horizon-template-bundle/tree/1.0.2",
                 "issues": "https://github.com/itk-os2display/horizon-template-bundle/issues"
             },
-            "time": "2017-10-31T08:52:04+00:00"
+            "time": "2017-11-23T06:41:34+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
