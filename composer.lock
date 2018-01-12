@@ -1514,16 +1514,16 @@
         },
         {
             "name": "itk-os2display/exchange-bundle",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itk-os2display/exchange-bundle.git",
-                "reference": "a5e7d15a73e979667b6e1618cc016eaf1824baa8"
+                "reference": "b5117e1921413a3ea4fa2fc618312bdb33c7332d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itk-os2display/exchange-bundle/zipball/a5e7d15a73e979667b6e1618cc016eaf1824baa8",
-                "reference": "a5e7d15a73e979667b6e1618cc016eaf1824baa8",
+                "url": "https://api.github.com/repos/itk-os2display/exchange-bundle/zipball/b5117e1921413a3ea4fa2fc618312bdb33c7332d",
+                "reference": "b5117e1921413a3ea4fa2fc618312bdb33c7332d",
                 "shasum": ""
             },
             "require": {
@@ -1540,10 +1540,10 @@
             },
             "description": "Os2Display exchange calendar integration",
             "support": {
-                "source": "https://github.com/itk-os2display/exchange-bundle/tree/1.0.0",
+                "source": "https://github.com/itk-os2display/exchange-bundle/tree/1.0.1",
                 "issues": "https://github.com/itk-os2display/exchange-bundle/issues"
             },
-            "time": "2017-12-08T10:15:08+00:00"
+            "time": "2018-01-12T07:52:24+00:00"
         },
         {
             "name": "itk-os2display/horizon-template-bundle",
@@ -2711,16 +2711,16 @@
         },
         {
             "name": "os2display/admin-bundle",
-            "version": "1.0.12",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itk-os2display/admin-bundle.git",
-                "reference": "48cfff99f34f9ba59b266c9970c6582a256cc52f"
+                "reference": "5c1d1dfe4b33f07ba2af5145ce18b6893a7f349d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itk-os2display/admin-bundle/zipball/48cfff99f34f9ba59b266c9970c6582a256cc52f",
-                "reference": "48cfff99f34f9ba59b266c9970c6582a256cc52f",
+                "url": "https://api.github.com/repos/itk-os2display/admin-bundle/zipball/5c1d1dfe4b33f07ba2af5145ce18b6893a7f349d",
+                "reference": "5c1d1dfe4b33f07ba2af5145ce18b6893a7f349d",
                 "shasum": ""
             },
             "require": {
@@ -2735,9 +2735,9 @@
             },
             "description": "Os2Display admin",
             "support": {
-                "source": "https://github.com/itk-os2display/admin-bundle/tree/1.0.12"
+                "source": "https://github.com/itk-os2display/admin-bundle/tree/1.0.13"
             },
-            "time": "2017-11-27T09:06:19+00:00"
+            "time": "2018-01-10T13:22:04+00:00"
         },
         {
             "name": "os2display/core-bundle",
@@ -2796,16 +2796,16 @@
         },
         {
             "name": "os2display/default-template-bundle",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itk-os2display/default-template-bundle.git",
-                "reference": "6742ae9a7263fd9bd1b0e0a520cece22a98529e5"
+                "reference": "9d498f5cde0ae0212d003d4067d32818588a5b51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itk-os2display/default-template-bundle/zipball/6742ae9a7263fd9bd1b0e0a520cece22a98529e5",
-                "reference": "6742ae9a7263fd9bd1b0e0a520cece22a98529e5",
+                "url": "https://api.github.com/repos/itk-os2display/default-template-bundle/zipball/9d498f5cde0ae0212d003d4067d32818588a5b51",
+                "reference": "9d498f5cde0ae0212d003d4067d32818588a5b51",
                 "shasum": ""
             },
             "require": {
@@ -2819,9 +2819,9 @@
             },
             "description": "Os2Display default template",
             "support": {
-                "source": "https://github.com/itk-os2display/default-template-bundle/tree/1.0.7"
+                "source": "https://github.com/itk-os2display/default-template-bundle/tree/1.0.8"
             },
-            "time": "2017-12-01T13:48:59+00:00"
+            "time": "2018-01-10T13:23:07+00:00"
         },
         {
             "name": "os2display/media-bundle",
