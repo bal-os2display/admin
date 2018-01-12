@@ -1,5 +1,9 @@
 # bal-os2display/admin
 
+## 5.0.7
+
+* Updated itk-os2display/exchange-bundle to 1.0.1 to fix issue with slide.options.resources not set.
+
 ## 5.0.6
 
 * Fixed parameters.dist and config.yml.
