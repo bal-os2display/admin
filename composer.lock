@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bdd6a49da01c4a02bdbc0accf878db1f",
+    "content-hash": "240c6ed378c3c44ef6cb246648ab1865",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -1575,6 +1575,37 @@
                 "issues": "https://github.com/itk-os2display/horizon-template-bundle/issues"
             },
             "time": "2018-03-06T08:50:17+00:00"
+        },
+        {
+            "name": "itk-os2display/vimeo-bundle",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/itk-os2display/vimeo-bundle.git",
+                "reference": "c8c2934cc3718b0f67c2ffa6f5dad6fe03013403"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/itk-os2display/vimeo-bundle/zipball/c8c2934cc3718b0f67c2ffa6f5dad6fe03013403",
+                "reference": "c8c2934cc3718b0f67c2ffa6f5dad6fe03013403",
+                "shasum": ""
+            },
+            "require": {
+                "os2display/admin-bundle": "^1.0.10",
+                "os2display/core-bundle": "^1.0"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Itk\\VimeoBundle\\": ""
+                }
+            },
+            "description": "Os2Display vimeo template.",
+            "support": {
+                "source": "https://github.com/itk-os2display/vimeo-bundle/tree/1.0.2",
+                "issues": "https://github.com/itk-os2display/vimeo-bundle/issues"
+            },
+            "time": "2018-01-22T12:26:51+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
