@@ -40,6 +40,7 @@ class AppKernel extends Kernel
 
             new Itk\ExchangeBundle\ItkExchangeBundle(),
             new Itk\HorizonTemplateBundle\ItkHorizonTemplateBundle(),
+            new Itk\VimeoBundle\ItkVimeoBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test', 'acceptance'))) {
