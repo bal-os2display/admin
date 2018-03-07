@@ -1,5 +1,9 @@
 # bal-os2display/admin
 
+## 5.0.9
+
+* Added itk-os2display/vimeo-bundle.
+
 ## 5.0.8
 
 * Updated itk-os2display/default-template-bundle to 1.0.9.
