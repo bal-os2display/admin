@@ -1,5 +1,9 @@
 # bal-os2display/admin
 
+## 5.0.10
+
+* Updated symfony to 2.8.44.
+
 ## 5.0.9
 
 * Added itk-os2display/vimeo-bundle.
