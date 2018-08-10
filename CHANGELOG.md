@@ -1,5 +1,9 @@
 # bal-os2display/admin
 
+## 5.0.11
+
+* Updated vimeo-bundle to 1.0.3.
+
 ## 5.0.10
 
 * Updated symfony to 2.8.44.
