@@ -954,12 +954,12 @@
             "version": "v2.5.12",
             "source": {
                 "type": "git",
-                "url": "https://github.com/doctrine/doctrine2.git",
+                "url": "https://github.com/doctrine/orm.git",
                 "reference": "984535cadc609e9eef8c89414aa3568ee97aa79f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/984535cadc609e9eef8c89414aa3568ee97aa79f",
+                "url": "https://api.github.com/repos/doctrine/orm/zipball/984535cadc609e9eef8c89414aa3568ee97aa79f",
                 "reference": "984535cadc609e9eef8c89414aa3568ee97aa79f",
                 "shasum": ""
             },
@@ -1540,8 +1540,7 @@
             },
             "description": "Os2Display exchange calendar integration",
             "support": {
-                "source": "https://github.com/itk-os2display/exchange-bundle/tree/1.0.1",
-                "issues": "https://github.com/itk-os2display/exchange-bundle/issues"
+                "source": "https://github.com/itk-os2display/exchange-bundle/tree/1.0.1"
             },
             "time": "2018-01-12T07:52:24+00:00"
         },
@@ -1571,23 +1570,22 @@
             },
             "description": "Os2Display Horizon templates",
             "support": {
-                "source": "https://github.com/itk-os2display/horizon-template-bundle/tree/1.0.4",
-                "issues": "https://github.com/itk-os2display/horizon-template-bundle/issues"
+                "source": "https://github.com/itk-os2display/horizon-template-bundle/tree/1.0.4"
             },
             "time": "2018-03-06T08:50:17+00:00"
         },
         {
             "name": "itk-os2display/vimeo-bundle",
-            "version": "1.0.3",
+            "version": "1.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itk-os2display/vimeo-bundle.git",
-                "reference": "9077a843d721a2cdfd58f2dc72cbe66696d311d9"
+                "reference": "db6cee81e4ba48368a6188a23ab9f7a4ad075832"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itk-os2display/vimeo-bundle/zipball/9077a843d721a2cdfd58f2dc72cbe66696d311d9",
-                "reference": "9077a843d721a2cdfd58f2dc72cbe66696d311d9",
+                "url": "https://api.github.com/repos/itk-os2display/vimeo-bundle/zipball/db6cee81e4ba48368a6188a23ab9f7a4ad075832",
+                "reference": "db6cee81e4ba48368a6188a23ab9f7a4ad075832",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -1598,10 +1596,10 @@
             },
             "description": "Os2Display vimeo template.",
             "support": {
-                "source": "https://github.com/itk-os2display/vimeo-bundle/tree/1.0.3",
+                "source": "https://github.com/itk-os2display/vimeo-bundle/tree/1.0.6",
                 "issues": "https://github.com/itk-os2display/vimeo-bundle/issues"
             },
-            "time": "2018-05-30T06:35:45+00:00"
+            "time": "2018-11-26T09:14:06+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
@@ -2257,12 +2255,12 @@
             ],
             "authors": [
                 {
-                    "name": "Christophe Coevoet",
-                    "email": "stof@notk.org"
-                },
-                {
                     "name": "KnpLabs",
                     "homepage": "http://knplabs.com"
+                },
+                {
+                    "name": "Christophe Coevoet",
+                    "email": "stof@notk.org"
                 },
                 {
                     "name": "Symfony Community",
@@ -5317,7 +5315,7 @@
             ],
             "authors": [
                 {
-                    "name": "William Durand",
+                    "name": "William DURAND",
                     "email": "william.durand1@gmail.com"
                 }
             ],
