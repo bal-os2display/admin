@@ -1,5 +1,9 @@
 # bal-os2display/admin
 
+## 5.0.12
+
+* Updated vimeo-bundle to 1.0.6.
+
 ## 5.0.11
 
 * Updated vimeo-bundle to 1.0.3.
