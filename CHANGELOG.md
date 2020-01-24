@@ -1,37 +1,53 @@
-# bal-os2display/admin
+# CHANGELOG
 
-## 5.0.12
+## 6.1.3
 
-* Updated vimeo-bundle to 1.0.6.
+* Fixed UTC in AppKernel.php.
+* Updated os2display/screen-bundle: 1.1.3
 
-## 5.0.11
+## 6.1.2
 
-* Updated vimeo-bundle to 1.0.3.
+* Added fallback_image config.
+* Fixed screen in security.
+* Updated bundles.
 
-## 5.0.10
+## 6.1.1
 
-* Updated symfony to 2.8.44.
+* Upgraded bundles.
 
-## 5.0.9
+## 6.1.0
 
-* Added itk-os2display/vimeo-bundle.
+* Added screen-bundle.
 
-## 5.0.8
+## 6.0.0
 
-* Updated itk-os2display/default-template-bundle to 1.0.9.
-* Updated itk-os2display/admin-bundle to 1.0.14.
-* Updated itk-os2display/horizon-template-bundle to 1.0.4.
+* Upgraded to symfony 3.4.
 
-## 5.0.7
+## 5.2.0
 
-* Updated itk-os2display/exchange-bundle to 1.0.1 to fix issue with slide.options.resources not set.
+* Updated symfony/symfony: v2.8.49
+* Updated os2display/core-bundle: 1.2.0
+* Updated os2display/admin-bundle: 1.2.0
+* Updated os2display/default-template-bundle: 1.1.1
 
-## 5.0.6
+## 5.1.2
 
-* Fixed parameters.dist and config.yml.
-* Updated itk-os2display/core-bundle to 1.0.14.
+* Merged https://github.com/os2display/admin/pull/17
 
-## 5.0.5
+## 5.1.1
 
-* Updated itk-os2display/exchange-bundle to 1.0.0.
-* Updated itk-os2display/horizon-template-bundle to fix issue with calendar template not showing correct time and location.
+* Updated symfony/symfony: 2.8.44
+* Updated os2display/admin-bundle: 1.1.1
+
+## 5.1.0
+
+* Updated symfony/symfony: 2.8.42
+* Updated os2display/core-bundle: 1.1.0
+* Updated os2display/admin-bundle: 1.1.0
+* Updated os2display/default-template-bundle: 1.1.0
+
+## 5.0.2
+
+* Added migration required for https://github.com/os2display/core-bundle/pull/3
+* Added migration to fixed issue with groups following renaming of Entity types.
+* Updated admin-bundle to 1.0.10, core-bundle to 1.0.10 and default-template-bundle to 1.0.4.
