@@ -155,13 +155,13 @@ fos_rest:
 nelmio_api_doc: ~
 
 
-itk_exchange:
-    enabled: true
-    host: %itk_exchange_host%
-    user: %itk_exchange_user%
-    password: %itk_exchange_password%
-    version: Exchange2010
-    cache_ttl: 900
+os2_display_exchange:
+  enabled: true
+  host: %os2display_exchange.host%
+  user: %os2display_exchange.user%
+  password: %os2display_exchange.password%
+  version: Exchange2010
+  cache_ttl: 900
 
 os2_display_screen:
     strategies:

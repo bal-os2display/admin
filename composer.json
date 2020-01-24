@@ -27,13 +27,25 @@
     "os2display/core-bundle": "~2.0",
     "os2display/default-template-bundle": "~1.1",
     "os2display/media-bundle": "~2.0",
-    "os2display/screen-bundle": "~1.0"
+    "os2display/screen-bundle": "~1.0",
+    "os2display/vimeo-bundle": "^2.0",
+    "os2display/exchange-bundle": "dev-update-core-2",
+    "os2display/horizon-template-bundle": "dev-update-core-2"
   },
   "require-dev": {
     "sensio/generator-bundle": "^3.0",
     "symfony/phpunit-bridge": "^3.0"
   },
-  "repositories": {},
+  "repositories": {
+    "os2display/horizon-template-bundle": {
+      "type": "vcs",
+      "url": "https://github.com/reload/horizon-template-bundle"
+    },
+    "os2display/exchange-bundle": {
+      "type": "vcs",
+      "url": "https://github.com/reload/exchange-bundle"
+    }
+  },
   "scripts": {
     "symfony-scripts": [
       "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",

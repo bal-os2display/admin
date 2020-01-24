@@ -55,9 +55,8 @@ parameters:
 
     search_filter_default: all
 
-    itk_exchange_host: HOST
-    itk_exchange_user: USER
-    itk_exchange_password: PASSWORD
-
     fallback_image: ~
 
+    os2display_exchange.host: '%env(OS2D_EXCHANGE_HOST)%'
+    os2display_exchange.user: '%env(OS2D_EXCHANGE_USER)%'
+    os2display_exchange.password: '%env(OS2D_EXCHANGE_PASSWORD)%'
