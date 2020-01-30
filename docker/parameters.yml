@@ -41,6 +41,6 @@ parameters:
     itk_log_log_level: all
     search_filter_default: all
     fallback_image: assets/images/fallback_default.png
-    os2display_exchange.host: host
-    os2display_exchange.user: user
-    os2display_exchange.password: pw
+    os2display_exchange.host: '%env(OS2D_EXCHANGE_HOST)%'
+    os2display_exchange.user: '%env(OS2D_EXCHANGE_USER)%'
+    os2display_exchange.password: '%env(OS2D_EXCHANGE_PASSWORD)%'

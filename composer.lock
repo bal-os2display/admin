@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "70599262819081552b3a676f814359a0",
+    "content-hash": "f3a86cfca530bf91c203c74526ba044b",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -162,16 +162,16 @@
         },
         {
             "name": "debril/feed-io",
-            "version": "v4.5.1",
+            "version": "v4.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/alexdebril/feed-io.git",
-                "reference": "c651b6fc8952ebf0121bc0cc06ceeb3a69d482cf"
+                "reference": "e4d2f23b98744abee3fa5f217b19d41de2fdb744"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alexdebril/feed-io/zipball/c651b6fc8952ebf0121bc0cc06ceeb3a69d482cf",
-                "reference": "c651b6fc8952ebf0121bc0cc06ceeb3a69d482cf",
+                "url": "https://api.github.com/repos/alexdebril/feed-io/zipball/e4d2f23b98744abee3fa5f217b19d41de2fdb744",
+                "reference": "e4d2f23b98744abee3fa5f217b19d41de2fdb744",
                 "shasum": ""
             },
             "require": {
@@ -218,7 +218,7 @@
                 "news",
                 "rss"
             ],
-            "time": "2020-01-10T12:26:10+00:00"
+            "time": "2020-01-27T16:58:55+00:00"
         },
         {
             "name": "debril/rss-atom-bundle",
@@ -3286,16 +3286,16 @@
         },
         {
             "name": "os2display/exchange-bundle",
-            "version": "dev-update-core-2",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/reload/exchange-bundle.git",
-                "reference": "7f2c8f01f6ce94af66177c6223c7e74258f56760"
+                "url": "https://github.com/os2display/exchange-bundle.git",
+                "reference": "0c4dc3772ebd2926e9177a62781c3eddc7d05fb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reload/exchange-bundle/zipball/7f2c8f01f6ce94af66177c6223c7e74258f56760",
-                "reference": "7f2c8f01f6ce94af66177c6223c7e74258f56760",
+                "url": "https://api.github.com/repos/os2display/exchange-bundle/zipball/0c4dc3772ebd2926e9177a62781c3eddc7d05fb9",
+                "reference": "0c4dc3772ebd2926e9177a62781c3eddc7d05fb9",
                 "shasum": ""
             },
             "require": {
@@ -3310,24 +3310,22 @@
                     "Os2Display\\ExchangeBundle\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "description": "Os2Display exchange calendar integration",
-            "support": {
-                "source": "https://github.com/reload/exchange-bundle/tree/update-core-2"
-            },
-            "time": "2020-01-24T19:51:11+00:00"
+            "time": "2020-01-27T09:55:36+00:00"
         },
         {
             "name": "os2display/horizon-template-bundle",
-            "version": "dev-update-core-2",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/reload/horizon-template-bundle.git",
-                "reference": "4bba18f82a8578eb60a65bf704fc81095cc824dd"
+                "url": "https://github.com/os2display/horizon-template-bundle.git",
+                "reference": "708df480726a5acf25e60df70809a1b2b37ca4fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reload/horizon-template-bundle/zipball/4bba18f82a8578eb60a65bf704fc81095cc824dd",
-                "reference": "4bba18f82a8578eb60a65bf704fc81095cc824dd",
+                "url": "https://api.github.com/repos/os2display/horizon-template-bundle/zipball/708df480726a5acf25e60df70809a1b2b37ca4fa",
+                "reference": "708df480726a5acf25e60df70809a1b2b37ca4fa",
                 "shasum": ""
             },
             "require": {
@@ -3340,11 +3338,9 @@
                     "Os2Display\\HorizonTemplateBundle\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "description": "Os2Display Horizon templates",
-            "support": {
-                "source": "https://github.com/reload/horizon-template-bundle/tree/update-core-2"
-            },
-            "time": "2020-01-24T19:09:53+00:00"
+            "time": "2020-01-27T09:58:16+00:00"
         },
         {
             "name": "os2display/media-bundle",
@@ -6267,10 +6263,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "os2display/exchange-bundle": 20,
-        "os2display/horizon-template-bundle": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
