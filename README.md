@@ -1,5 +1,7 @@
 # os2display administrator interface
 
+For documentation for this specific installation see [SPECIFICS.md](SPECIFICS.md)
+
 For general information about installation see the [installation guide](https://github.com/os2display/docs/blob/master/installation/Installation%20guide.md) in the docs repository.
 
 ## Information
